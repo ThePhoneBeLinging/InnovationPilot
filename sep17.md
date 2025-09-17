@@ -13,7 +13,7 @@ authors:
 
 Highlights from meeting
 ===
-
+<!-- speaker_note: this is a speaker note -->
 - No giant wind (or solar) farms
 - Avoid stress on power-grid
 - Preferably wind-energy or solar + storage
@@ -24,8 +24,8 @@ Highlights from meeting
 <!-- new_lines: 5 -->
 <!-- pause -->
 # Problem Statement
-What stops the residents in the municipality from taking part in a
-energy community - And what can Roskilde Municipality do to facilitate this?
+What stops the residents in the Roskilde Municipality from taking part in a
+energy community - And what can the municipality do to facilitate this?
 
 <!-- end_slide -->
 <!-- font_size: 3 -->
@@ -74,7 +74,7 @@ As it's located in the northern part of Roskilde Municipality where almost all n
 
 # Interview
 - Residents about concerns regarding implementation of a green energy community
-- - Residents who are producing power and those who don't (YET)
+- - Residents who are producing power and those who aren't (YET)
 
 
 <!-- end_slide -->
