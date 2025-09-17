@@ -69,8 +69,7 @@ As it's located in the northern part of Roskilde Municipality where almost all n
 # Research
 - Green energy- production and storage solutions
 - Existing Energy Communities
-- - Nationally
-- - Internationally
+- - Nationally and Internationally
 
 # Interview
 - Residents about concerns regarding implementation of a green energy community
