@@ -1,78 +1,91 @@
 ---
-title: "Presentation Answers"
-sub_title: September 17
-author: EAL
+title: "Group 53"
+sub_title: Roskilde Energy Communities
+authors: 
+  - Elias
+  - Emil
+  - Emil
+  - Mikkel
+  - Martin
+  - Nicolai
 ---
 <!-- font_size: 3 -->
 
-What is the problem you will be working on?
+Highlights from meeting
 ===
+
+- No giant wind (or solar) farms
+- Avoid stress on power-grid
+- Preferably wind-energy or solar + storage
+- Focus outside of Roskilde city
+- Expensive to expand power-grid
+- Lacking citizen support
+- Preserve nature
+<!-- new_lines: 5 -->
 <!-- pause -->
-What is stopping everyone from producing their own energy? And what can 
-Roskilde Municipality do to facilitate this?
+# Problem Statement
+What stops the residents in the municipality from taking part in a
+energy community - And what can Roskilde Municipality do to facilitate this?
 
 <!-- end_slide -->
 <!-- font_size: 3 -->
-What do you need more knowledge about?
-===
-<!-- pause -->
-We need to understand and analyze why more people are not producing their own
-energy. And also why the ones who are have chosen to do so.
 
-<!-- end_slide -->
-<!-- font_size: 3 -->
-What research will you do - Who do you need to talk to and how will you do it?
-===
-
-<!-- pause -->
-
-Who?
-
-<!-- incremental_lists: true -->
-
-- We need to research what motivation has caused people to take charge 
-(pun intended) of producing their own energy.
-
-- From both sides we need to listen to concerns regarding taking that initial step.
-
-- From people who don't produce any energy, we need to fully find the root cause
-
-<!-- pause -->
-
-How?
-
-<!-- incremental_lists: true -->
-
-- We have chosen Gundsømagle as a test city, choosing a city allows us to automate a simple script that sends all inhabitants an email with a questionnaire. The city is also small enough for us to simply manually send emails
-
-- All of these interviews should be conducted with the 5 why's in mind
-
-- Use the knowledge from this, to create a plan for convincing more people to become more energy-independent. Also estimate actual offer to make it more real for people
-
-<!-- end_slide -->
-<!-- font_size: 3 -->
 Belbin Team Circle
 ===
 ![image:width:65%](./belbin.jpg)
 
-<!-- incremental_lists: true -->
-- We are missing many types of people
-- Go Crazy with finding potential risks from this
+We are missing a shaper and an implementer
+
+How can we solve this?
+<!-- pause --> 
+By being aware and wary of having to cover for this lack of roles.
 
 <!-- end_slide -->
 <!-- font_size: 3 -->
 Competence Triangle
 ===
-![image:width:55%](./competence.jpg)
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+
+- Optimism
+- Problem solving
+- Electronics
+- Knowledge of the area
+- Electrician
+- Consumer Insight
+- Convincing Skills
+
+<!-- column: 1 -->
+![image:width:100%](./competence.jpg)
+
+<!-- end_slide -->
+<!-- font_size: 3 -->
+What's next?
+===
+
+We have chosen Gundsømagle as a test city.
+As it's located in the northern part of Roskilde Municipality where almost all nature is preserved.
+
+# Research
+- Green energy- production and storage solutions
+- Existing Energy Communities
+- - Nationally
+- - Internationally
+
+# Interview
+- Residents about concerns regarding implementation of a green energy community
+- - Residents who are producing power and those who don't (YET)
+
 
 <!-- end_slide -->
 <!-- font_size: 3 -->
 
-Fun Fact
+Fun Facts
 ===
-<!-- incremental_lists: true -->
 
 - Mikkel is technically old enough to be Emils dad...
+- We all like pizza
+- 5 Executives and a driver, perfect for a bank robbery
 
 
 
