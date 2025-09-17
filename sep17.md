@@ -74,7 +74,7 @@ As it's located in the northern part of Roskilde Municipality where almost all n
 
 # Interview
 - Residents about concerns regarding implementation of a green energy community
-- - Residents who are producing power and those who aren't (YET)
+- - Residents who are producing power, and those who aren't (YET)
 
 
 <!-- end_slide -->
