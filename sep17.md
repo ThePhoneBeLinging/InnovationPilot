@@ -9,7 +9,7 @@ authors:
   - Martin
   - Nicolai
 ---
-<!-- font_size: 3 -->
+
 
 Highlights from meeting
 ===
@@ -28,7 +28,7 @@ What stops the residents in the Roskilde Municipality from taking part in a
 energy community - And what can the municipality do to facilitate this?
 
 <!-- end_slide -->
-<!-- font_size: 3 -->
+
 
 Belbin Team Circle
 ===
@@ -41,7 +41,7 @@ How can we solve this?
 By being aware and wary of having to cover for this lack of roles.
 
 <!-- end_slide -->
-<!-- font_size: 3 -->
+
 Competence Triangle
 ===
 <!-- column_layout: [1, 1] -->
@@ -59,7 +59,7 @@ Competence Triangle
 ![image:width:100%](./competence.jpg)
 
 <!-- end_slide -->
-<!-- font_size: 3 -->
+
 What's next?
 ===
 
@@ -77,7 +77,7 @@ As it's located in the northern part of Roskilde Municipality where almost all n
 
 
 <!-- end_slide -->
-<!-- font_size: 3 -->
+
 
 Fun Facts
 ===
